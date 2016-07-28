@@ -208,6 +208,13 @@ public class ChatKeyboardLayout extends SoftHandleLayout implements EmoticonsToo
         isLimitedOnlyText = true;
     }
 
+    public void limitUseAll() {
+        btnEmoticon.setVisibility(VISIBLE);
+        btnMedia.setVisibility(VISIBLE);
+        btnVoiceOrText.setVisibility(VISIBLE);
+        isLimitedOnlyText = false;
+    }
+
     /**
      * hide keyboard or emoticon area or media area
      */
