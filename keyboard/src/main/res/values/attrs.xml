@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <declare-styleable name="ChatKeyboardLayout">
-        <attr name="sendBtnBg" format="integer"/>
+        <attr name="sendBtnBg" format="integer" />
+        <attr name="orientation" format="enum">
+            <enum name="left" value="1" />
+            <enum name="right" value="0" />
+        </attr>
     </declare-styleable>
 </resources>
