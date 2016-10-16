@@ -21,7 +21,7 @@ repositories{
     maven { url "https://jitpack.io" }
 }
 dependencies {
-    compile 'com.github.CPPAlien:ChatKeyboard:1.0.1'
+    compile 'com.github.ninty90:ChatKeyboard:1.0.3'
 }
 ```
 
