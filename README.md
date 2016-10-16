@@ -1,6 +1,6 @@
-# ChatKeyboard
+[![](https://jitpack.io/v/ninty90/ChatKeyboard.svg)](https://jitpack.io/#ninty90/ChatKeyboard)
 
-[![](https://travis-ci.org/CPPAlien/ChatKeyboard.svg?branch=master)](https://travis-ci.org/CPPAlien/ChatKeyboard) 
+# ChatKeyboard
 
 A powerful and easy using keyboard lib includes emoticons, audio recording, multi media keyboard, etc.
 
